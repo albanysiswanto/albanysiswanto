@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **albanysiswanto@hotmail.com**
 
-- 📄 Know about my experiences [https://albanysiswanto.site/CV_albanysiswanto.pdf](https://albanysiswanto.site/CV_albanysiswanto.pdf)
+- 📄 Know about my experiences [My Resume](http://bit.ly/3X36srP)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
