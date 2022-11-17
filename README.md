@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Albany Siswanto</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
-<img width="450" align="right" src="https://thebusinessblocks.com/wp-content/uploads/2021/07/lottie2-2.gif" alt="Coding"/>
+<img width="420" align="right" src="https://thebusinessblocks.com/wp-content/uploads/2021/07/lottie2-2.gif" alt="Coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albanysis&label=Profile%20views&color=0e75b6&style=flat" alt="albanysis" /> </p>
 
