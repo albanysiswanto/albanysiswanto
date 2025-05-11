@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="img/benner.gif">
+  <img src="img/banner.gif"  />
 </div>
 
 ###
@@ -44,10 +44,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/albanysiswanto/count.svg?"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxyOWZ5YWxocm1kbTg4eHc2aXltYXI2eWgwdG9jN3gzYzFyemphdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WNTnNwVIpVsKYCwweJ/giphy.gif"  />
 
 ###
 
