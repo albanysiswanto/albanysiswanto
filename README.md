@@ -60,7 +60,3 @@
 </picture>
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zqq4ko5rsgkz6tjn7du34mmtpy&unique={true|1|on|yes})
-
-###
