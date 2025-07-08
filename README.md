@@ -3,12 +3,6 @@
 </div>
 
 ###
-
-![](https://visitor-badge.laobi.icu/badge?page_id=albanysiswanto.albanysiswanto)
-
-###
-
-###
 ```rust
 // src/profile/intro.rs
 
@@ -55,4 +49,10 @@ async fn intro_handler() -> impl Responder {
     HttpResponse::Ok().body(response)
 }
 ```
+###
+
+###
+
+![](https://visitor-badge.laobi.icu/badge?page_id=albanysiswanto.albanysiswanto)
+
 ###
